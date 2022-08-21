@@ -1,0 +1,63 @@
+.form-control{
+    margin-right : 100px;
+}
+
+.box{
+    margin-top : 180px;
+	margin-left : 10px;
+
+    
+    float : left;
+
+
+	padding-top : 50px; 
+
+	padding-bottom : 30px;
+    padding-right : 80px;
+    padding-left : 80px;
+}
+
+.mycol{
+    float : left;
+    margin-left : 220px;
+}
+
+.btn{
+    background : greenyellow;
+    color : black;
+}
+
+
+h3{
+    float : left;
+    margin-left : 70px;
+    color : rgb(247, 247, 247);
+}
+
+.logo{
+    margin-top : 50px;
+    padding-top : 50px;
+    padding-left : 100px;
+}
+
+.lbl{
+    background-color: rgb(255, 255, 255);
+    color :rgb(0, 0, 0);
+    padding-left : 10px;
+    padding-top: 5px;
+    padding-bottom : 5px;
+    padding-right : 90px;
+}
+
+.col abcd{
+    color :rgb(247, 247, 247);
+    size : 3;
+}
+
+select{
+    background-color : rgb(0, 195, 255);
+    padding-left : 10px;
+    padding-right : 10px;
+    padding-top : 3px;
+    padding-bottom : 5px;
+}

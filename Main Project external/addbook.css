@@ -1,0 +1,48 @@
+.form-control{
+    margin-right : 100px;
+}
+
+.box{
+    
+	margin-left : 10px;
+
+    background : green;
+    float : left;
+
+
+	padding-top : 50px; 
+
+	padding-bottom : 30px;
+    padding-right : 80px;
+    padding-left : 80px;
+}
+
+.mycol{
+    float : left;
+    margin-left : 220px;
+}
+
+.button{
+    background-color : green;
+    color : red;
+}
+
+
+.h3{
+    float : left;
+    margin-left : 70px;
+    color : rgb(247, 247, 247);
+}
+
+.logo{
+    margin-top : 50px;
+    padding-top : 50px;
+    padding-left : 100px;
+}
+
+.body{
+	background : blue;
+}
+.majed {
+float:right;
+}

@@ -1,0 +1,65 @@
+.form-control{
+    margin-right : 100px;
+}
+
+.box{
+    
+	/* margin-left : 10px; */
+
+    background : green;
+    float : left;
+
+
+	padding-top : 10px; 
+
+	padding-bottom : 30px;
+    padding-right : 80px;
+    padding-left : 80px;
+}
+
+.mycol{
+    float : left;
+    margin-left : 220px;
+}
+
+.btn{
+    background-color : green;
+    color : red;
+    float : right;
+}
+
+
+.h3{
+    float : left;
+    margin-left : 70px;
+    color : rgb(0, 0, 0);
+}
+
+.logo{
+    margin-top : 50px;
+    padding-top : 50px;
+    padding-left : 100px;
+}
+
+.body{
+	background : rgb(253, 253, 253);
+}
+.majed {
+float:left;
+}
+.lbl{
+    background-color: rgb(255, 255, 255);
+    color :rgb(0, 0, 0);
+    padding-left : 10px;
+    padding-top: 5px;
+    padding-bottom : 5px;
+    padding-right : 80px;
+}
+
+select{
+    background-color : rgb(0, 195, 255);
+    padding-left : 10px;
+    padding-right : 10px;
+    padding-top : 3px;
+    padding-bottom : 5px;
+}

@@ -1,0 +1,48 @@
+.form-control{
+    margin-right : 100px;
+}
+
+.box{
+    margin-top : 180px;
+	margin-left : 10px;
+
+    
+    float : left;
+    
+
+
+	padding-top : 50px; 
+
+	padding-bottom : 30px;
+    padding-right : 80px;
+    padding-left : 80px;
+}
+
+.mycol{
+    float : left;
+    margin-left : 220px;
+}
+
+.btn{
+    background : greenyellow;
+    color : black;
+    height : 50px;
+    width : 100px;
+}
+
+
+h3{
+    float : left;
+    margin-left : 70px;
+    color : rgb(247, 247, 247);
+}
+
+.logo{
+    margin-top : 50px;
+    padding-top : 50px;
+    padding-left : 100px;
+}
+
+body{
+    background-color: blue;
+}
